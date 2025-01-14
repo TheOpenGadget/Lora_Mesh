@@ -1,1 +1,28 @@
-# Lora-Mesh---Lora-based-Mesh-network
+# LoRa Mesh USB Dongle and HAT for Raspberry Pi 
+
+LoRa MESH networking utilizes LoRa spread spectrum technology for long-range communication. It offers a maximum output power of +22dBm, with an air data rate of up to 62.5K. 
+
+Equipped with advanced LoRa MESH networking technology, the board supports features such as decentralized communication, self-routing, network self-healing, and multi-level routing. These capabilities make it ideal for a variety of applications, including smart home systems, industrial sensors, wireless alarm and security systems, building automation, smart agriculture, and more
+
+## Features
+- Decntralized communication
+- Self routing
+- Network self-healing
+- Multi-level routing
+- Long Range communication upto 2.5 Km
+- Upto 65535 Nodes can be connected (theoretically)
+- Support Unicast and Broadcase communication
+- Remote Configuration of modules
+- Air transmission rate upto 62.5kbps
+- Low-power consumption
+
+## Hardware Overview
+- **Lora Mesh Raspberry Pi HAT**: Compatible with all Raspberry Pi Models
+- **Lora Mesh USB Dongle**: Compatible with all single board computers/Windows/Linux/Mac computers
+
+## Getting Started
+
+### Hardware Setup
+1. Clone or download this repository:
+   ```bash
+   git clone https://github.com/yourusername/lora-mesh-network.git
