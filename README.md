@@ -20,6 +20,12 @@ Equipped with advanced LoRa MESH networking technology, the board supports featu
 - **Lora Mesh Raspberry Pi HAT**: Compatible with all Raspberry Pi Models
 - **Lora Mesh USB Dongle**: Compatible with all single board computers/Windows/Linux/Mac computers
 
+## USB Driver
+- **CH340**: The hardware is based on the CH340 chip, incase of driver you can download it from the official website. You can download the drivers for windows/Mac/linux using the below link.
+https://www.wch-ic.com/downloads/CH341SER_ZIP.html#carousel-example-generic
+
+You 
+
 ## Getting Started
 
 ### Hardware Setup
