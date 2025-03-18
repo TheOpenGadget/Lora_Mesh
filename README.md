@@ -16,6 +16,8 @@ Equipped with advanced LoRa MESH networking technology, the board supports featu
 - Air transmission rate upto 62.5kbps
 - Low-power consumption
 
+https://i.kickstarter.com/assets/047/307/118/559cc8a2d7f8a4074757b4b0a32a1c41_original.jpeg?fit=scale-down&origin=ugc&q=92&v=1731868114&width=680&sig=GXlYUJglp7fabnFZFjS3N9HSLERxbvzh4SOiqPcZm9I%3D
+
 ## Hardware Overview
 - **Lora Mesh Raspberry Pi HAT**: Compatible with all Raspberry Pi Models
 - **Lora Mesh USB Dongle**: Compatible with all single board computers/Windows/Linux/Mac computers
