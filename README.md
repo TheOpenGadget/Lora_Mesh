@@ -16,7 +16,7 @@ Equipped with advanced LoRa MESH networking technology, the board supports featu
 - Air transmission rate upto 62.5kbps
 - Low-power consumption
 
-![Product](https://i.kickstarter.com/assets/047/307/118/559cc8a2d7f8a4074757b4b0a32a1c41_original.jpeg?fit=scale-down&origin=ugc&q=92&v=1731868114&width=680&sig=GXlYUJglp7fabnFZFjS3N9HSLERxbvzh4SOiqPcZm9I%3D)
+<img src="https://i.kickstarter.com/assets/047/307/118/559cc8a2d7f8a4074757b4b0a32a1c41_original.jpeg?fit=scale-down&origin=ugc&q=92&v=1731868114&width=680&sig=GXlYUJglp7fabnFZFjS3N9HSLERxbvzh4SOiqPcZm9I%3D" alt="Mesh HAT and Dongle" width="50%"/>
 
 
 ## Hardware Overview
