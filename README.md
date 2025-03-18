@@ -5,7 +5,7 @@ LoRa MESH networking utilizes LoRa spread spectrum technology for long-range com
 Equipped with advanced LoRa MESH networking technology, the board supports features such as decentralized communication, self-routing, network self-healing, and multi-level routing. These capabilities make it ideal for a variety of applications, including smart home systems, industrial sensors, wireless alarm and security systems, building automation, smart agriculture, and more
 
 ## Features
-- Decntralized communication
+- Decentralized communication
 - Self routing
 - Network self-healing
 - Multi-level routing
