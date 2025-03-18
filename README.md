@@ -28,7 +28,10 @@ Equipped with advanced LoRa MESH networking technology, the board supports featu
 https://www.wch-ic.com/downloads/CH341SER_ZIP.html#carousel-example-generic
 
 ## Table of Contents
-1. [Documentation AT Commands](Documentation/) - This contains the AT-Commands manual 
+1. [Documentation](Documentation/) - This directory contains the manual for AT-Commands of the module.
+2. [Hardware](Hardware/) -
+3. [Software](Software/) -
+4. [Tools](Tools/) -  
 
 ## Getting Started
 
