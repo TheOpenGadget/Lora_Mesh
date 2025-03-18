@@ -40,6 +40,7 @@ To get started with this project, clone the repository:
 
    ```bash
    git clone https://github.com/theopengadget/lora_mesh.git
+   ```
 
 ### Breakdown of Sections:
 
