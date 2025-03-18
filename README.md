@@ -35,7 +35,8 @@ https://www.wch-ic.com/downloads/CH341SER_ZIP.html#carousel-example-generic
 
 ## Getting Started
 
-### Hardware Setup
-1. Clone or download this repository:
+### Clone the repository
+To get started with this project, clone the repository:
+
    ```bash
    git clone https://github.com/theopengadget/lora_mesh.git
