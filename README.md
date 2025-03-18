@@ -29,9 +29,9 @@ https://www.wch-ic.com/downloads/CH341SER_ZIP.html#carousel-example-generic
 
 ## Table of Contents
 1. [Documentation](Documentation/) - This directory contains the manual for AT-Commands of the module.
-2. [Hardware](Hardware/) -
-3. [Software](Software/) -
-4. [Tools](Tools/) -  
+2. [Hardware](Hardware/) - This directory contains the STEP file and dimensional file of the hardwares.
+3. [Software](Software/) - This directory contains all the codes like library and examples
+4. [Tools](Tools/) - This directory contains serial communication tool (X-Com) for manual AT Commands
 
 ## Getting Started
 
