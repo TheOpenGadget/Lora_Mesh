@@ -25,7 +25,7 @@ Equipped with advanced LoRa MESH networking technology, the board supports featu
 https://www.wch-ic.com/downloads/CH341SER_ZIP.html#carousel-example-generic
 
 ## Table of Contents
-1. [Installation](#installation)
+1. [Library](#installation) - This contains
 
 ## Getting Started
 
