@@ -38,4 +38,4 @@ https://www.wch-ic.com/downloads/CH341SER_ZIP.html#carousel-example-generic
 ### Hardware Setup
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/yourusername/lora-mesh-network.git
+   git clone https://github.com/theopengadget/lora_mesh.git
