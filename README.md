@@ -43,7 +43,7 @@ https://www.wch-ic.com/downloads/CH341SER_ZIP.html#carousel-example-generic
 The LoRa Mesh network adopts a decentralized structure and the entire network is composed of - Routing Nodes and Terminal Nodes
 - **Routing Node**: Routing node receives data in the network for routing updates and data forwarding
 - **Terminal Node**: Terminal nodes do not have routing functions and are generally deployed at the edge of the network
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmB7V7_tDHuGQ5AXGW-IyVleqwTMM_ni3qlPGpj3341psHMqlpaPzTeUGMKBBGumkNYhTRGI6FKxBVby2GC0EDFhUxqH1FLGOuYy7ZLen67MfJEkYC9KkCQq5uuWAUArwCG0NGKq3_opa7qfB4UriEBqNzIblatdJdWIVjU_wL1euamayhbPzl7OhnqvY/s1600/e%20routing.png" alt="Mesh Dongle" width="50%"/>
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmB7V7_tDHuGQ5AXGW-IyVleqwTMM_ni3qlPGpj3341psHMqlpaPzTeUGMKBBGumkNYhTRGI6FKxBVby2GC0EDFhUxqH1FLGOuYy7ZLen67MfJEkYC9KkCQq5uuWAUArwCG0NGKq3_opa7qfB4UriEBqNzIblatdJdWIVjU_wL1euamayhbPzl7OhnqvY/s1600/e%20routing.png" alt="Mesh Dongle" width="70%"/>
 
 ### Communication Modes
 ajsdlkfdsajfdsfjsak
