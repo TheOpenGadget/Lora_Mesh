@@ -46,7 +46,14 @@ The LoRa Mesh network adopts a decentralized structure and the entire network is
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmB7V7_tDHuGQ5AXGW-IyVleqwTMM_ni3qlPGpj3341psHMqlpaPzTeUGMKBBGumkNYhTRGI6FKxBVby2GC0EDFhUxqH1FLGOuYy7ZLen67MfJEkYC9KkCQq5uuWAUArwCG0NGKq3_opa7qfB4UriEBqNzIblatdJdWIVjU_wL1euamayhbPzl7OhnqvY/s1600/e%20routing.png" alt="Mesh Dongle" width="70%"/>
 
 ### Communication Modes
-ajsdlkfdsajfdsfjsak
+The network supports four communication methods - Unicast, Multicast, Broadcast and Anycast. 
+You can choose different communication methods according to different application scenarios. Among them, unicast and broadcast are the simplest and most basic communication methods. 
+
+- **Unicast mode**: This is like a point to point communication and for this mode you should know the address of the target module. The routes will be automatically established and request responses will be returned to determine the data transmission path.
+- **Broadcast mode**: This method is used for broadcasting the data without knowing the address of the module. There is no need to establish a route, but all receiving
+modules will forward the data again after receiving it. The module's built-in CSMA avoidance mechanism and broadcast filtering mechanism can effectively prevent data collision and secondary forwarding.
+- **Multicast mode**: This communication method requires group management of target modules in advance. All target modules need to be grouped in advance using commands. Group can be understood as a public address, and each module can set up to 8 group addresses. Also, Routing needs to be re-established every time. It is recommended that the interval between consecutive multicast initiations be about 5 seconds.
+- **Anycast Mode**: This communication is generally used for communication between different networks, and different networks have different network identification codes. Unicast, multicast, and broadcast communication methods cannot directly interact with data between networks. In this case, anycast can be used to interact with data between different networks. Anycast communication can send data to a single or all nodes within the single-hop coverage according to the set target address. Data cannot be relayed and responded to in anycast mode.
 
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNGjFXQMeVvU9D3qW-cVq524wn_YzU-8nZk3c2k7qugF8yLD10heNsHq4uk4zGb63Di0pDHR4FoiAmZ3jfOdtuObwE7aFseeKbsLrWU6sFiq2l-Jd-G6LKugmEfCjRUjw29xyu7Tgfntz5AdWgIE3bb9I2UQON3EOkmEp5UWvBEvFWg8phKqir9EbkIkQ/s1600/Broadcast.png" alt="Mesh Dongle" width="50%"/>
 
