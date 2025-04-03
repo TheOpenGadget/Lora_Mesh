@@ -22,6 +22,8 @@ Equipped with advanced LoRa MESH networking technology, the board supports featu
 - **Lora Mesh Raspberry Pi HAT**: Compatible with all Raspberry Pi Models
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlPSMGV6bwPpxW7U7EKe_rdAWKBcFmchxstOrxnIezqFVFq2X-JoOFHP6CF92xV0POZeSl9juZsfuLSebtLYqutwA-Uh6cTbndW4XUN9HCDl9E5sIEZFNHkMZbvngYbQFjCDriUtbJb9x0Uut4yX4mfMWFaqYZ2E86s0w_bQq8YhLDuZTZCb0VU61VSQE/s16000/16.jpg" alt="Mesh HAT" width="50%"/>
 
+1. 
+
 - **Lora Mesh USB Dongle**: Compatible with all single board computers/Windows/Linux/Mac computers
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjimGkkRhyphenhyphenZ2xbkyBmzovxoRSoGXV1MVB9hCw7OE0lMUOFSjtgu3pcWOmV_kZNmeHzkpDRAAVTTjiME0o9XKAhu_aPbWTGHwzeR3oVG7b4C0EPzzv1RMO94-m9OBiHKpGM6LvCVm3rVLRq-vA6rAg-Bkn9i07kuvKdajaCRbU8yJ2wLRT7T8h5NSykFjCk/s1600/17.jpg" alt="Mesh Dongle" width="50%"/>
 
@@ -41,11 +43,12 @@ https://www.wch-ic.com/downloads/CH341SER_ZIP.html#carousel-example-generic
 The LoRa Mesh network adopts a decentralized structure and the entire network is composed of - Routing Nodes and Terminal Nodes
 - **Routing Node**: Routing node receives data in the network for routing updates and data forwarding
 - **Terminal Node**: Terminal nodes do not have routing functions and are generally deployed at the edge of the network
-
-
-
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmB7V7_tDHuGQ5AXGW-IyVleqwTMM_ni3qlPGpj3341psHMqlpaPzTeUGMKBBGumkNYhTRGI6FKxBVby2GC0EDFhUxqH1FLGOuYy7ZLen67MfJEkYC9KkCQq5uuWAUArwCG0NGKq3_opa7qfB4UriEBqNzIblatdJdWIVjU_wL1euamayhbPzl7OhnqvY/s1600/e%20routing.png" alt="Mesh Dongle" width="50%"/>
 
 ### Communication Modes
+ajsdlkfdsajfdsfjsak
+
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNGjFXQMeVvU9D3qW-cVq524wn_YzU-8nZk3c2k7qugF8yLD10heNsHq4uk4zGb63Di0pDHR4FoiAmZ3jfOdtuObwE7aFseeKbsLrWU6sFiq2l-Jd-G6LKugmEfCjRUjw29xyu7Tgfntz5AdWgIE3bb9I2UQON3EOkmEp5UWvBEvFWg8phKqir9EbkIkQ/s1600/Broadcast.png" alt="Mesh Dongle" width="50%"/>
 
 ### Clone the repository
 To get started with this project, clone the repository:
