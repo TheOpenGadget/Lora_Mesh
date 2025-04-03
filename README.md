@@ -53,6 +53,12 @@ https://www.wch-ic.com/downloads/CH341SER_ZIP.html#carousel-example-generic
 4. [Tools](Tools/) - This directory contains serial communication tool (X-Com) for manual AT Commands
 
 ## Getting Started
+### Clone the repository
+To get started with this project, clone the repository:
+
+   ```bash
+   git clone https://github.com/theopengadget/lora_mesh.git
+   ```
 
 ### Network Topology
 The LoRa Mesh network adopts a decentralized structure and the entire network is composed of - Routing Nodes and Terminal Nodes
@@ -72,11 +78,13 @@ modules will forward the data again after receiving it. The module's built-in CS
 
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNGjFXQMeVvU9D3qW-cVq524wn_YzU-8nZk3c2k7qugF8yLD10heNsHq4uk4zGb63Di0pDHR4FoiAmZ3jfOdtuObwE7aFseeKbsLrWU6sFiq2l-Jd-G6LKugmEfCjRUjw29xyu7Tgfntz5AdWgIE3bb9I2UQON3EOkmEp5UWvBEvFWg8phKqir9EbkIkQ/s1600/Broadcast.png" alt="Mesh Dongle" width="50%"/>
 
-### Clone the repository
-To get started with this project, clone the repository:
+### Manual Configuration of the Module
+Using RF settings tool located at [Tools](Tools/), you can easily configure all the parameters of the module. GUI is very simple and easy to use. For more information you can check the video.
 
-   ```bash
-   git clone https://github.com/theopengadget/lora_mesh.git
-   ```
+
+### Serial Communication Tool (X-Com) for AT Commands
+This is serial communication tool showed in the documents for sending AT commands to the module. You can also use any serial software. For more information you can checkout the video.
+
+
 
 
