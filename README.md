@@ -22,9 +22,9 @@ Equipped with advanced LoRa MESH networking technology, the board supports featu
 - **Lora Mesh Raspberry Pi HAT**: Compatible with all Raspberry Pi Models
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDrJdN6geXsRcTNCT8rtlzwCDyTX2gNLxin0JOQVQgF8VnjiW3Zvp8bOZdDhNQibhjxhb1LesbrYUomOtYP7bvBxjb-9jRCzSULoCX1Em-FEjKA9HaQ15CfN7o-mA5BP6xzk0yZ8RQSdyY0vBl4LmXr2ARMhNA9GmZyrDYAWyGS4OD6IFkl1sqNy9dcck/s1600/Long%20Range%20MESH.jpg" alt="Mesh HAT" width="50%"/>
 
-1. SMA Connector - For connecting the Antenna
+1. SMA Connector for the Antenna
 2. USB-C: This can be used for power supply to the module or the data communication. For data communication the jumper settings must be set as the USB text.
-3. Boot Loader Button
+3. Bootloader Button
 4. Button 1 - Programmable button linked with Raspberry Pi GPIO PIN -
 5. Module Rest Button
 6. Button 2 - Programmable button linked with Raspberry Pi GPIO PIN -
@@ -35,6 +35,12 @@ Equipped with advanced LoRa MESH networking technology, the board supports featu
 
 - **Lora Mesh USB Dongle**: Compatible with all single board computers/Windows/Linux/Mac computers
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjimGkkRhyphenhyphenZ2xbkyBmzovxoRSoGXV1MVB9hCw7OE0lMUOFSjtgu3pcWOmV_kZNmeHzkpDRAAVTTjiME0o9XKAhu_aPbWTGHwzeR3oVG7b4C0EPzzv1RMO94-m9OBiHKpGM6LvCVm3rVLRq-vA6rAg-Bkn9i07kuvKdajaCRbU8yJ2wLRT7T8h5NSykFjCk/s1600/17.jpg" alt="Mesh Dongle" width="50%"/>
+
+1. SMA connector for the Antenna
+2. Module Reset Button
+3. Bootloader Button
+4. LoRa Mesh Module
+5. USB-A for communication
 
 ## USB Driver
 - **CH340**: The hardware is based on the CH340 chip, incase of driver you can download it from the official website. You can download the drivers for windows/Mac/linux using the below link.
