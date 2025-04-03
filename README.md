@@ -23,7 +23,7 @@ Equipped with advanced LoRa MESH networking technology, the board supports featu
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlPSMGV6bwPpxW7U7EKe_rdAWKBcFmchxstOrxnIezqFVFq2X-JoOFHP6CF92xV0POZeSl9juZsfuLSebtLYqutwA-Uh6cTbndW4XUN9HCDl9E5sIEZFNHkMZbvngYbQFjCDriUtbJb9x0Uut4yX4mfMWFaqYZ2E86s0w_bQq8YhLDuZTZCb0VU61VSQE/s16000/16.jpg" alt="Mesh HAT" width="50%"/>
 
 - **Lora Mesh USB Dongle**: Compatible with all single board computers/Windows/Linux/Mac computers
-- 
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjimGkkRhyphenhyphenZ2xbkyBmzovxoRSoGXV1MVB9hCw7OE0lMUOFSjtgu3pcWOmV_kZNmeHzkpDRAAVTTjiME0o9XKAhu_aPbWTGHwzeR3oVG7b4C0EPzzv1RMO94-m9OBiHKpGM6LvCVm3rVLRq-vA6rAg-Bkn9i07kuvKdajaCRbU8yJ2wLRT7T8h5NSykFjCk/s1600/17.jpg" alt="Mesh Dongle" width="50%"/>
 
 ## USB Driver
 - **CH340**: The hardware is based on the CH340 chip, incase of driver you can download it from the official website. You can download the drivers for windows/Mac/linux using the below link.
