@@ -18,10 +18,12 @@ Equipped with advanced LoRa MESH networking technology, the board supports featu
 
 <img src="https://i.kickstarter.com/assets/047/307/118/559cc8a2d7f8a4074757b4b0a32a1c41_original.jpeg?fit=scale-down&origin=ugc&q=92&v=1731868114&width=680&sig=GXlYUJglp7fabnFZFjS3N9HSLERxbvzh4SOiqPcZm9I%3D" alt="Mesh HAT and Dongle" width="50%"/>
 
-
 ## Hardware Overview
 - **Lora Mesh Raspberry Pi HAT**: Compatible with all Raspberry Pi Models
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlPSMGV6bwPpxW7U7EKe_rdAWKBcFmchxstOrxnIezqFVFq2X-JoOFHP6CF92xV0POZeSl9juZsfuLSebtLYqutwA-Uh6cTbndW4XUN9HCDl9E5sIEZFNHkMZbvngYbQFjCDriUtbJb9x0Uut4yX4mfMWFaqYZ2E86s0w_bQq8YhLDuZTZCb0VU61VSQE/s16000/16.jpg" alt="Mesh HAT" width="50%"/>
+
 - **Lora Mesh USB Dongle**: Compatible with all single board computers/Windows/Linux/Mac computers
+- 
 
 ## USB Driver
 - **CH340**: The hardware is based on the CH340 chip, incase of driver you can download it from the official website. You can download the drivers for windows/Mac/linux using the below link.
@@ -34,6 +36,16 @@ https://www.wch-ic.com/downloads/CH341SER_ZIP.html#carousel-example-generic
 4. [Tools](Tools/) - This directory contains serial communication tool (X-Com) for manual AT Commands
 
 ## Getting Started
+
+### Network Topology
+The LoRa Mesh network adopts a decentralized structure and the entire network is composed of - Routing Nodes and Terminal Nodes
+- **Routing Node**: Routing node receives data in the network for routing updates and data forwarding
+- **Terminal Node**: Terminal nodes do not have routing functions and are generally deployed at the edge of the network
+
+
+
+
+### Communication Modes
 
 ### Clone the repository
 To get started with this project, clone the repository:
