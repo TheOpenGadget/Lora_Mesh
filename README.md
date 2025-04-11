@@ -81,8 +81,12 @@ modules will forward the data again after receiving it. The module's built-in CS
 ### Manual Configuration of the Module
 Using RF settings tool [Tools](Tools/), you can easily configure all the parameters of the module. GUI is very simple and easy to use. For more information you can check the video.
 
+
+
 ### Serial Communication Tool (X-Com) for AT Commands
 This is serial communication tool  [Tools](Tools/) showed in the documents for sending AT commands to the module. You can also use any serial software. For more information you can checkout the video.
+
+https://youtu.be/vb755sMvFL4
 
 
 
