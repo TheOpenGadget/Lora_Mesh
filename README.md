@@ -86,7 +86,7 @@ Using RF settings tool [Tools](Tools/), you can easily configure all the paramet
 ### Serial Communication Tool (X-Com) for AT Commands
 This is serial communication tool  [Tools](Tools/) showed in the documents for sending AT commands to the module. You can also use any serial software. For more information you can checkout the video.
 
-https://youtu.be/vb755sMvFL4
+[![Video](https://img.youtube.com/vi/jXnoFqcAkQA/maxresdefault.jpg)](https://www.youtube.com/watch?v=jXnoFqcAkQA)
 
 
 
